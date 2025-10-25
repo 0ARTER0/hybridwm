@@ -6,7 +6,7 @@ and if you say why just don't use hyprland? I will say static workpaces(yeah i a
 So i want to make my own wm with all this. This is why is a hybrid window manager, its need to be realy customizible and easy to use(just some configs line in hyprland).
 If i realy post updates on github its be cool ;) .
 
-# progress:
+# progrsess:
   ![](https://geps.dev/progress/successColor/0)
 
 # Plans to add:

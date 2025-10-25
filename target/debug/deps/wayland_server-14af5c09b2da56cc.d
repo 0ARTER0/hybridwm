@@ -1,0 +1,10 @@
+/home/arter/Projects/Other/hybridwm/git_hub/hybrid_wm/target/debug/deps/wayland_server-14af5c09b2da56cc.d: /home/arter/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wayland-server-0.31.10/src/lib.rs /home/arter/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wayland-server-0.31.10/src/client.rs /home/arter/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wayland-server-0.31.10/src/dispatch.rs /home/arter/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wayland-server-0.31.10/src/display.rs /home/arter/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wayland-server-0.31.10/src/global.rs /home/arter/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wayland-server-0.31.10/src/socket.rs
+
+/home/arter/Projects/Other/hybridwm/git_hub/hybrid_wm/target/debug/deps/libwayland_server-14af5c09b2da56cc.rmeta: /home/arter/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wayland-server-0.31.10/src/lib.rs /home/arter/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wayland-server-0.31.10/src/client.rs /home/arter/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wayland-server-0.31.10/src/dispatch.rs /home/arter/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wayland-server-0.31.10/src/display.rs /home/arter/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wayland-server-0.31.10/src/global.rs /home/arter/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wayland-server-0.31.10/src/socket.rs
+
+/home/arter/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wayland-server-0.31.10/src/lib.rs:
+/home/arter/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wayland-server-0.31.10/src/client.rs:
+/home/arter/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wayland-server-0.31.10/src/dispatch.rs:
+/home/arter/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wayland-server-0.31.10/src/display.rs:
+/home/arter/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wayland-server-0.31.10/src/global.rs:
+/home/arter/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wayland-server-0.31.10/src/socket.rs:

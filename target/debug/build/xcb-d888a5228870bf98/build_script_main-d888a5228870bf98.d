@@ -1,0 +1,11 @@
+/home/arter/Projects/Other/hybridwm/git_hub/hybrid_wm/target/debug/build/xcb-d888a5228870bf98/build_script_main-d888a5228870bf98.d: /home/arter/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/xcb-0.10.1/build/main.rs /home/arter/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/xcb-0.10.1/build/ast.rs /home/arter/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/xcb-0.10.1/build/codegen/mod.rs /home/arter/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/xcb-0.10.1/build/codegen/ffi.rs /home/arter/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/xcb-0.10.1/build/codegen/rs.rs /home/arter/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/xcb-0.10.1/build/output.rs /home/arter/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/xcb-0.10.1/build/parse.rs
+
+/home/arter/Projects/Other/hybridwm/git_hub/hybrid_wm/target/debug/build/xcb-d888a5228870bf98/build_script_main-d888a5228870bf98: /home/arter/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/xcb-0.10.1/build/main.rs /home/arter/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/xcb-0.10.1/build/ast.rs /home/arter/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/xcb-0.10.1/build/codegen/mod.rs /home/arter/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/xcb-0.10.1/build/codegen/ffi.rs /home/arter/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/xcb-0.10.1/build/codegen/rs.rs /home/arter/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/xcb-0.10.1/build/output.rs /home/arter/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/xcb-0.10.1/build/parse.rs
+
+/home/arter/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/xcb-0.10.1/build/main.rs:
+/home/arter/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/xcb-0.10.1/build/ast.rs:
+/home/arter/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/xcb-0.10.1/build/codegen/mod.rs:
+/home/arter/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/xcb-0.10.1/build/codegen/ffi.rs:
+/home/arter/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/xcb-0.10.1/build/codegen/rs.rs:
+/home/arter/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/xcb-0.10.1/build/output.rs:
+/home/arter/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/xcb-0.10.1/build/parse.rs:

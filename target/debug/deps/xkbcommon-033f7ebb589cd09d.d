@@ -1,0 +1,11 @@
+/home/arter/Projects/Other/hybridwm/git_hub/hybrid_wm/target/debug/deps/xkbcommon-033f7ebb589cd09d.d: /home/arter/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/xkbcommon-0.8.0/src/lib.rs /home/arter/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/xkbcommon-0.8.0/src/xkb/mod.rs /home/arter/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/xkbcommon-0.8.0/src/xkb/compose.rs /home/arter/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/xkbcommon-0.8.0/src/xkb/ffi.rs /home/arter/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/xkbcommon-0.8.0/src/xkb/keysyms.rs
+
+/home/arter/Projects/Other/hybridwm/git_hub/hybrid_wm/target/debug/deps/libxkbcommon-033f7ebb589cd09d.rlib: /home/arter/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/xkbcommon-0.8.0/src/lib.rs /home/arter/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/xkbcommon-0.8.0/src/xkb/mod.rs /home/arter/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/xkbcommon-0.8.0/src/xkb/compose.rs /home/arter/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/xkbcommon-0.8.0/src/xkb/ffi.rs /home/arter/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/xkbcommon-0.8.0/src/xkb/keysyms.rs
+
+/home/arter/Projects/Other/hybridwm/git_hub/hybrid_wm/target/debug/deps/libxkbcommon-033f7ebb589cd09d.rmeta: /home/arter/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/xkbcommon-0.8.0/src/lib.rs /home/arter/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/xkbcommon-0.8.0/src/xkb/mod.rs /home/arter/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/xkbcommon-0.8.0/src/xkb/compose.rs /home/arter/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/xkbcommon-0.8.0/src/xkb/ffi.rs /home/arter/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/xkbcommon-0.8.0/src/xkb/keysyms.rs
+
+/home/arter/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/xkbcommon-0.8.0/src/lib.rs:
+/home/arter/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/xkbcommon-0.8.0/src/xkb/mod.rs:
+/home/arter/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/xkbcommon-0.8.0/src/xkb/compose.rs:
+/home/arter/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/xkbcommon-0.8.0/src/xkb/ffi.rs:
+/home/arter/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/xkbcommon-0.8.0/src/xkb/keysyms.rs:
